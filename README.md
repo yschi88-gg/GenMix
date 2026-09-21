@@ -1,5 +1,7 @@
 # GenMix
 
+Official PyTorch implementation of **GenMix: Self-Supervised Contrastive Learning via Adaptive Feature Mixing and Generative Latent Augmentation**.
+
 ## Files
 
 ```text
